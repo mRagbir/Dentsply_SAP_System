@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Dentsply_SAP_Transactions_Service.SapService" CodeBehind="SapService.svc.cs" %>
